@@ -3,4 +3,7 @@
 3. vs code extension 설치 (code runner,...)
 4. git 설치 https://git-scm.com/downloads
 5. github repository 와 vs code 연결하기
-6. 개발 시작 
+6. git bash에서 유저 이름과 이메일 입력
+ git config --global user.email "ddi2506@gmail.com"
+ git config --global user.name "Remedier"
+7. 개발 시작 
