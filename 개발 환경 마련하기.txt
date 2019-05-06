@@ -1,0 +1,6 @@
+1. github 접속
+2. vs code 설치 https://code.visualstudio.com/Download
+3. vs code extension 설치 (code runner,...)
+4. git 설치 https://git-scm.com/downloads
+5. github repository 와 vs code 연결하기
+6. 개발 시작 
