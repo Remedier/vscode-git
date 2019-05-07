@@ -1,6 +1,10 @@
 1. github 접속
 2. vs code 설치 https://code.visualstudio.com/Download
 3. vs code extension 설치 (code runner,...)
+MinGW 설치 및 환경 변수 설정 (cmd 에서)
+MinGW : https://sourceforge.net/projects/mingw/files/latest/download
+MinGW 와 VS Code 연결 : https://taking.kr/blog/archives/4825.html
+cmd에서 환경변수 편집 : https://blog.okno.co.kr/396
 4. git 설치 https://git-scm.com/downloads
 5. github repository 와 vs code 연결하기
 6. git bash에서 유저 이름과 이메일 입력
